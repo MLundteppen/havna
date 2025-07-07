@@ -2,7 +2,7 @@
   {
     "id": 1,
     "navn": "TNT",
-    "hvor": "Fredag",
+    "når": "Fredag",
     "tid": "17:00 - 18:00",
     "dato": "8. august",
     "startTid": "2025-07-05T17:00:00+02:00",
